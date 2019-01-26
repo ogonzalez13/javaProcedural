@@ -9,7 +9,7 @@ public class Ints {
 		// prompt user for x
 		System.out.print("x is ");
 	    int x = Input.get_int();
-	    
+	    //comentario
 	    // prompt user for y
 	    System.out.print("y is ");
 	    int y = Input.get_int();
